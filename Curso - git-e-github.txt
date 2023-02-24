@@ -7,3 +7,4 @@ git add .                           :monitora todos os arquivos da pasta
 git config user.name "nome.autor"   :informa o nome  do proprietário desse repositório git
 git config user.name "email.autor"  :informa o email do proprietário desse repositório git
 git commit -m "texto.descritivo"    :informa ao git que grave as aterações do arquivo e envia mensagem descritiva 
+git log                             :log de commits
