@@ -15,4 +15,3 @@ git log                             :log de commits
 git log --online                    :log - resumo da lista de commits um em cada linha
 git log -p                          :log - detalhe dos commits, inclusive com a alteração feita                             
 git add .gitignore                  :arquivo com linhas que contem o nome dos arquivos que o git deve ignorar as alterações
-git 
