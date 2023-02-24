@@ -1,0 +1,4 @@
+git init			                :cria diretório git para controle de versões
+git status			                :informações das alterações
+git add <nome_arquivo.extenção>     :informar ao git para monitora o arquivo
+git add .                           :monitora todos os arquivos da pasta
