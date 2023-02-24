@@ -6,5 +6,10 @@ git add <nome_arquivo.extenção>     :informar ao git para monitora o arquivo
 git add .                           :monitora todos os arquivos da pasta
 git config user.name "nome.autor"   :informa o nome  do proprietário desse repositório git
 git config user.name "email.autor"  :informa o email do proprietário desse repositório git
+git config                          :define configurações para este ou todos os projetos
+git config --local                  :definições de um projeto individual
+git config --global                 :definições dos projetos da máquina/computador como um todo
 git commit -m "texto.descritivo"    :informa ao git que grave as aterações do arquivo e envia mensagem descritiva 
 git log                             :log de commits
+git log --online                    :log - resumo da lista de commits um em cada linha
+git log -p                          :log - detalhe dos commits, inclusive com a alteração feita                             
