@@ -2,3 +2,6 @@ git init			                :cria diretório git para controle de versões
 git status			                :informações das alterações
 git add <nome_arquivo.extenção>     :informar ao git para monitora o arquivo
 git add .                           :monitora todos os arquivos da pasta
+git config user.name "nome.autor"   :informa o nome  do proprietário desse repositório git
+git config user.name "email.autor"  :informa o email do proprietário desse repositório git
+git commit -m "texto.descritivo"    :informa ao git que grave as aterações do arquivo e envia mensagem descritiva 
